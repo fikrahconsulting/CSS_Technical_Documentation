@@ -1,2 +1,2 @@
 # CSS_Technical_Documentation
-CSS Technical Documentation following Self made version
+CSS Technical Documentation Self made version
